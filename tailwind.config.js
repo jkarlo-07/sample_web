@@ -16,7 +16,9 @@ export default {
             },
             fontFamily: {
                 sans: ["Figtree", ...defaultTheme.fontFamily.sans],
+                benzin: ['Benzin', 'sans-serif'],
             },
+            
         },
     },
 

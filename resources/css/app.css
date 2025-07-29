@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Benzin';
+  src: url('~public/fonts/Benzin-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.try {
+    font-family: 'Benzin';
+    font-weight: bold;
+}
+
